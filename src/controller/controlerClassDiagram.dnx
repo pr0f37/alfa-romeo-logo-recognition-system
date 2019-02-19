@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_62k4kFlCEeCQYPHdkep3dg" type="Class" name="ControlerClassDiagram.dnx">
+  <eAnnotations xmi:id="_62k4kllCEeCQYPHdkep3dg" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_62k4k1lCEeCQYPHdkep3dg" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:id="_9-lLUFlCEeCQYPHdkep3dg">
+    <children xmi:id="_9-uVQFlCEeCQYPHdkep3dg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_9-uVQVlCEeCQYPHdkep3dg" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_9-uVQllCEeCQYPHdkep3dg" type="Stereotype"/>
+    <children xmi:id="_9-uVQ1lCEeCQYPHdkep3dg" type="Name"/>
+    <children xmi:id="_9-uVRFlCEeCQYPHdkep3dg" type="Parent"/>
+    <children xmi:id="_9-uVRVlCEeCQYPHdkep3dg" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9-uVRllCEeCQYPHdkep3dg"/>
+    </children>
+    <children xmi:id="_9-4GQFlCEeCQYPHdkep3dg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9-4GQVlCEeCQYPHdkep3dg"/>
+    </children>
+    <children xmi:id="_9-4GQllCEeCQYPHdkep3dg" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9-4GQ1lCEeCQYPHdkep3dg"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_9-lLUVlCEeCQYPHdkep3dg" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=PictureAnalyser%5Bjcu%5Ename=PictureAnalyser.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ARRSystem%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9-lLUllCEeCQYPHdkep3dg" x="4153" y="2698"/>
+  </children>
+  <children xmi:id="_-SvdcFlCEeCQYPHdkep3dg">
+    <children xmi:id="_-Svdc1lCEeCQYPHdkep3dg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_-SvddFlCEeCQYPHdkep3dg" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_-SvddVlCEeCQYPHdkep3dg" type="Stereotype"/>
+    <children xmi:id="_-SvddllCEeCQYPHdkep3dg" type="Name"/>
+    <children xmi:id="_-Svdd1lCEeCQYPHdkep3dg" type="Parent"/>
+    <children xmi:id="_-SvdeFlCEeCQYPHdkep3dg" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_-SvdeVlCEeCQYPHdkep3dg"/>
+    </children>
+    <children xmi:id="_-S4nYFlCEeCQYPHdkep3dg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_-S4nYVlCEeCQYPHdkep3dg"/>
+    </children>
+    <children xmi:id="_-S4nYllCEeCQYPHdkep3dg" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_-S4nY1lCEeCQYPHdkep3dg"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_-SvdcVlCEeCQYPHdkep3dg" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=PictureEditor%5Bjcu%5Ename=PictureEditor.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ARRSystem%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-SvdcllCEeCQYPHdkep3dg" x="18018" y="4497"/>
+  </children>
+  <children xmi:id="_-uT_IFlCEeCQYPHdkep3dg">
+    <children xmi:id="_-uT_I1lCEeCQYPHdkep3dg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_-uT_JFlCEeCQYPHdkep3dg" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_-uT_JVlCEeCQYPHdkep3dg" type="Stereotype"/>
+    <children xmi:id="_-uT_JllCEeCQYPHdkep3dg" type="Name"/>
+    <children xmi:id="_-uT_J1lCEeCQYPHdkep3dg" type="Parent"/>
+    <children xmi:id="_-uT_KFlCEeCQYPHdkep3dg" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_-uT_KVlCEeCQYPHdkep3dg"/>
+    </children>
+    <children xmi:id="_-uT_KllCEeCQYPHdkep3dg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_-uT_K1lCEeCQYPHdkep3dg"/>
+    </children>
+    <children xmi:id="_-uT_LFlCEeCQYPHdkep3dg" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_-uT_LVlCEeCQYPHdkep3dg"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_-uT_IVlCEeCQYPHdkep3dg" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=controller%5Bjcu%5Ename=controller.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ARRSystem%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-uT_IllCEeCQYPHdkep3dg" x="12408" y="1848"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_62k4kVlCEeCQYPHdkep3dg"/>
+  <element xsi:nil="true"/>
+  <edges xmi:id="_-WJWwFlCEeCQYPHdkep3dg" source="_-SvdcFlCEeCQYPHdkep3dg" target="_9-lLUFlCEeCQYPHdkep3dg">
+    <children xmi:id="_-WJWw1lCEeCQYPHdkep3dg" type="KindLabel">
+      <children xmi:id="_-WJWxVlCEeCQYPHdkep3dg" type="Stereotype"/>
+      <children xmi:id="_-WJWx1lCEeCQYPHdkep3dg" type="Kind"/>
+      <children xmi:id="_-WJWxllCEeCQYPHdkep3dg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-WJWxFlCEeCQYPHdkep3dg" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-WJWwVlCEeCQYPHdkep3dg" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PictureEditor%5Bjcu%5Ename=PictureEditor.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ARRSystem%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=PictureAnalyser%5Bjcu%5Ename=PictureAnalyser.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ARRSystem%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-WJWwllCEeCQYPHdkep3dg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+</notation:Diagram>
